@@ -1,0 +1,2 @@
+Windows : python yolo_video.py -i video.mp4 -o output -y yolo-coco
+Linux   : python3 yolo_video.py -i video.mp4 -o output -y yolo-coco
